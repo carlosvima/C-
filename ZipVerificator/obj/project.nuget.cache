@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "a1jbGly+3zg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carlosjavier.vicente\\source\\repos\\ZipVerificator\\ZipVerificator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlosjavier.vicente\\.nuget\\packages\\log4net\\2.0.17\\log4net.2.0.17.nupkg.sha512",
+    "C:\\Users\\carlosjavier.vicente\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\carlosjavier.vicente\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\carlosjavier.vicente\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\carlosjavier.vicente\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\carlosjavier.vicente\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\carlosjavier.vicente\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
